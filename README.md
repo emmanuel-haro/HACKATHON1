@@ -25,7 +25,7 @@ This is my personal **portfolio website** built using **HTML** and **CSS**. It s
 ## 💻 How to Use
 
 1. Clone or download this repository.
-2. Open `index.html` in any web browser to view the site.
+2. Open in any web browser to view the site.
 3. Click the "Download CV" button to download the resume file.
 
 ## 📌 Future Improvements
